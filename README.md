@@ -7,9 +7,9 @@ Este projeto foi feito em 2023, para o curso de análise e desevolvimento de sis
 
 ## Neste projeto foram utilizadas as seguintes ferramentas:
 
-PYTHON
-Biblioteca Steamlit
-Codeium 
+>PYTHON
+>Biblioteca Steamlit
+>Codeium 
 
 ## Referências:
 
