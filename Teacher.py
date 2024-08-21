@@ -3,8 +3,6 @@
 import streamlit as st
 import pandas as pd
 
-#Criar funções de carregamento de dados
-
 
 st.title("Calculadora do Professor")
 
@@ -24,8 +22,5 @@ if NOTA >= 50:
 else:
   st.write("Seu aluno(a) foi Reprovado")
 
-#Preparar as visualizações
-
-#Criar interface do programa
 
 
