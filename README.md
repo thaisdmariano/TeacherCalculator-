@@ -14,3 +14,4 @@ Este projeto foi feito em 2023, para o curso de análise e desevolvimento de sis
 ## Referências:
 
 https://youtu.be/_Uy-fUrHKJw?si=7dO41JX_TJvV5hI2
+https://colab.research.google.com/drive/1zz11DMcHFeMJwWGuvsch2MRsVj5lywTG?usp=chrome_ntp
